@@ -6,18 +6,22 @@
   width: 100%;
 
   .starContainer {
-    padding-top: 10px;
+    padding-top: 12px;
     height: 100%;
     width: 100%;
 
     .icon {
-      height: 85%;
+      height: 75%;
       width: 100%;
     }
+    margin-bottom: 5px;
+    margin-right: 10px;
   }
   .scoreContainer {
     width: 100%;
     height: 100%;
-    font-size: 30px;
+    font-size: 26px;
+    padding-bottom: 2px;
+    padding-left: 10px;
   }
 }
